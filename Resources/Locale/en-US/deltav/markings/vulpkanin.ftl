@@ -93,7 +93,8 @@ marking-VulpSnoutBlaze = Vulpkanin Blaze
 marking-VulpSnoutPatch-patch = Patch
 marking-VulpSnoutPatch = Vulpkanin Patch
 
-marking-VulpkaninSnoutRound-snout_round = Round
+marking-VulpSnoutRound-snout_round = Round
+marking-VulpSnoutRound-nose = RNose
 marking-VulpSnoutRound = Vulpkanin Round
 
 marking-VulpHeadTiger-tiger_head = Tiger stripes
