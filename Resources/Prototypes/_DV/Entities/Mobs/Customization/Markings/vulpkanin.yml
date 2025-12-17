@@ -155,7 +155,7 @@
 
 # Head Markings (Snout)
 - type: marking
-  id: VulpkaninSnoutRound
+  id: VulpSnoutRound
   bodyPart: Snout
   markingCategory: Snout
   speciesRestriction: [Vulpkanin, IPC, SlimePerson, Kitsune]
