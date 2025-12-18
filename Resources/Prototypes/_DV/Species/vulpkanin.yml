@@ -108,8 +108,7 @@
       required: false
     Snout:
       points: 1
-      required: true
-      defaultMarkings: [ VulpkaninSnoutRound ] #The Den: Vulpkanin snout default marking
+      required: false
     HeadTop:
       points: 1
       required: true

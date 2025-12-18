@@ -155,17 +155,6 @@
 
 # Head Markings (Snout)
 - type: marking
-  id: VulpkaninSnoutRound
-  bodyPart: Snout
-  markingCategory: Snout
-  speciesRestriction: [Vulpkanin, IPC, SlimePerson, Kitsune]
-  sprites:
-  - sprite: _DV/Mobs/Customization/Vulpkanin/head_markings.rsi
-    state: snout_round
-  - sprite: _DV/Mobs/Customization/Vulpkanin/head_markings.rsi
-    state: nose
-
-- type: marking
   id: VulpSnoutAlt
   bodyPart: Snout
   markingCategory: Snout

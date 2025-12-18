@@ -55,10 +55,6 @@
     {
       "name": "vulpine-lines",
       "directions": 4
-    },
-    {
-      "name": "snout-round",
-      "directions": 4
     }
   ]
 }
